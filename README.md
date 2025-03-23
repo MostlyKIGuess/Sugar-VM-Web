@@ -13,9 +13,6 @@ This project provides a Docker container with Sugar Desktop Environment and acti
 ```bash
 # Build the Sugar XFCE image
 docker build -t sugar-vm-web -f Dockerfile.sugar.xfce .
-
-# Alternatively, build the XFCE version
- docker build -t debian-xfce-vnc -f Dockerfile.debian.xfce .
 ```
 
 ## Run the Container
