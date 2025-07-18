@@ -2,7 +2,7 @@
 
 FROM debian:12
 
-LABEL maintainer="Krish Pandya <bruvistrue03@gmail.com>"
+LABEL maintainer="Krish Pandya <bruvistrue93@gmail.com>"
 ENV REFRESHED_AT=2025-03-23
 
 LABEL io.k8s.description="Headless VNC Container with XFCE and Sugar Activities" \
